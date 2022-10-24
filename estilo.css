@@ -14,7 +14,7 @@
     
 }
 .titulo{
-   font-size: 350%; 
+   font-size: 400%; 
    font-style:italic;
    text-align: center;
    
@@ -40,11 +40,20 @@
     display:inline;
 }
 p{
-  font-size: 150%;  
+  font-size: 250%;  
 }
 ul, ol{
-    font-size: 150%;
+    font-size: 250%;
 }
 h3, h4{
-    font-size: 200%;
+    font-size: 300%;
+}
+.flexElemento{
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+}
+.flexContenedor{
+    display: inline-flex;
 }
