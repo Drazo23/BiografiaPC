@@ -1,0 +1,50 @@
+*{
+    background-image: url(./huellitas.jpg); 
+    background-image: no-repeat;
+    background-size: 700px;
+    background-attachment:fixed;
+    color:white;
+    font-family: 'Rancho';
+}
+
+#imgPerfil{
+    border-radius: 50%;
+    text-align: center;
+    height: 700px;
+    
+}
+.titulo{
+   font-size: 350%; 
+   font-style:italic;
+   text-align: center;
+   
+}
+#fotoPerfil{
+    text-align: center;
+}
+#biografia{
+    width: 500px;
+    text-align: center;
+}
+
+#imgPimienta{
+    border-radius: 50%;
+    height: 400px;
+}
+
+#imgCanela{
+    border-radius: 50%;  
+    height: 400px;
+}
+#biografia{
+    display:inline;
+}
+p{
+  font-size: 150%;  
+}
+ul, ol{
+    font-size: 150%;
+}
+h3, h4{
+    font-size: 200%;
+}
